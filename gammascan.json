@@ -1,0 +1,24 @@
+{
+	"gammaAccess": {
+		"url": "http://localhost:3000",
+		"userName": "chandrashekhar.bhosale@acellere.com",
+		"password": "admin1234"
+	},
+	"repositories": [{
+		"repository": {
+			"uid": "7d96d6469dbc691d408eb9ca8ba89e1c",
+			"projectName": "c_redis",
+			"sources": {
+				"baseDir": "$WORKSPACE"
+			}
+		},
+		"dataDir": "/opt/gamma_data/tenants/1532440291108/module_data/7d96d6469dbc691d408eb9ca8ba89e1c",
+		"modules": {
+			"codeissues": [{
+					"name": "gamma_cxx"
+				}
+
+			]
+		}
+	}]
+}
